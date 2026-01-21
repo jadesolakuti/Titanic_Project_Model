@@ -1,0 +1,6 @@
+Name: Kuti Jadesola
+Matric Number: 22CD032158
+Machine Learning Algorithm Used: Random Forest Classifier
+Model Persistence Method Used: Joblib
+Live URL of Hosted Application: https://your-app-name.onrender.com
+GitHub Repository Link: https://github.com/jadesolakuti/Titanic_Project_Model
