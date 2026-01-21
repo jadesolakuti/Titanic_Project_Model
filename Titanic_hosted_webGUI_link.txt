@@ -2,5 +2,5 @@ Name: Kuti Jadesola
 Matric Number: 22CD032158
 Machine Learning Algorithm Used: Random Forest Classifier
 Model Persistence Method Used: Joblib
-Live URL of Hosted Application: https://your-app-name.onrender.com
+Live URL of Hosted Application: https://breast-cancer-prediction-q0ru.onrender.com
 GitHub Repository Link: https://github.com/jadesolakuti/Titanic_Project_Model
